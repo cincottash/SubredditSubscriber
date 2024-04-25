@@ -9,3 +9,4 @@ Windows: py -m main.py
 Linux: python3 main.py
 
 ## Requirments
+pip install -r requirements.txt
